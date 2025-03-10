@@ -25,7 +25,7 @@ The 3D Solar System project is an interactive web-based visualization of our sol
    ```
 2. Navigate to the project folder:
    ```sh
-   cd 3d-Solar-System
+   cd 3D-Solar-System
    ```
 3. Open `index.html` in a browser or use a local server:
    ```sh
