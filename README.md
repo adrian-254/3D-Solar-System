@@ -7,9 +7,8 @@ The 3D Solar System project is an interactive web-based visualization of our sol
 ## Features
 
 - **Realistic Orbits:** Planets revolve around the Sun based on their actual speeds and distances.
-- **3D Visualization:** Utilizes WebGL or Three.js for rendering.
+- **3D Visualization:** Utilizes WebGL for rendering
 - **Planet Information:** Clicking on a planet displays details such as size, distance from the Sun, and orbital period.
-- **Customizable Settings:** Toggle orbit lines and adjust simulation speed.
 
 ## Technologies Used
 
